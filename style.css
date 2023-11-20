@@ -10,7 +10,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-family: "Comic Sans MS";
     scroll-behavior: smooth;
     list-style: none;
     text-decoration: none;
@@ -166,7 +166,7 @@ section{
 
 
 .home-text h1{
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-family: "Comic Sans MS";
     font-size: var(--step-4);
     color: #544986;
     letter-spacing: 1px;
@@ -210,7 +210,7 @@ section{
 .in-title h4{
     color: var(--text-color);
     
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-family: "Comic Sans MS";
     font-size: 76px;
     font-weight: 800;
     margin-left: 40px;
@@ -411,7 +411,7 @@ section{
 
 .vidtext h2{
     font-size: var(--step-3);
-    ly: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-family: "Comic Sans MS";
     align-self: center;
     
 }
@@ -555,12 +555,12 @@ section{
 .about-text span{
     color: #5a5b9f;
     font-weight: 800;
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-family: "Comic Sans MS";
      
 }
 
 span{
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-family: "Comic Sans MS";
     font-size: var(--h2-font);
     font-weight: 800;
      
@@ -833,7 +833,7 @@ span{
     }
     .in-title h4{
                
-        font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+        font-family: "Comic Sans MS";
         font-size: 40px;
         font-weight: 800;
         margin-left: 20px;
@@ -898,7 +898,7 @@ span{
         display: block;
     }
     .in-title h4{
-        font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+        font-family: "Comic Sans MS";
         font-size: 40px;
         font-weight: 800;
         margin-left: 20px;
@@ -955,7 +955,7 @@ span{
     }
     .in-title h4{
               
-        font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+        font-family: "Comic Sans MS";
         font-size: 40px;
         font-weight: 800;
         margin-left: 20px;
@@ -1062,7 +1062,7 @@ span{
     }
     .in-title h4{
               
-        font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+        font-family: "Comic Sans MS";
         font-size: 40px;
         font-weight: 800;
         margin-left: 20px;
