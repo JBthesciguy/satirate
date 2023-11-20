@@ -10,7 +10,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS", sans-serif;
     scroll-behavior: smooth;
     list-style: none;
     text-decoration: none;
@@ -166,7 +166,7 @@ section{
 
 
 .home-text h1{
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS", sans-serif;
     font-size: var(--step-4);
     color: #544986;
     letter-spacing: 1px;
@@ -210,7 +210,7 @@ section{
 .in-title h4{
     color: var(--text-color);
     
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS", sans-serif;
     font-size: 76px;
     font-weight: 800;
     margin-left: 40px;
@@ -411,7 +411,7 @@ section{
 
 .vidtext h2{
     font-size: var(--step-3);
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS", sans-serif;
     align-self: center;
     
 }
@@ -555,12 +555,12 @@ section{
 .about-text span{
     color: #5a5b9f;
     font-weight: 800;
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS", sans-serif;
      
 }
 
 span{
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS", sans-serif;
     font-size: var(--h2-font);
     font-weight: 800;
      
@@ -584,7 +584,7 @@ span{
 .heading b{
     color: var(--bg-color);
     font-weight: 600;
-    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    font-family: "Comic Sans MS", sans-serif;
 }
 
 .menu-container{
